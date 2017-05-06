@@ -1,0 +1,2 @@
+# truncate-logs
+Open Source Community: Before running this script, please make sure you are familiar with proper management of SQL Server transaction log files - kCura publishes a document on this subject called Managing Relativity SQL Log Files.  It can be found on the public documentation site at https://help.kcura.com.  Truncating logs should not be a regular practice, but can be necessary for maintenance when logs have grown too large.
