@@ -1,2 +1,4 @@
 # truncate-logs
 Open Source Community: Before running this script, please make sure you are familiar with proper management of SQL Server transaction log files - kCura publishes a document on this subject called Managing Relativity SQL Log Files.  It can be found on the public documentation site at https://help.kcura.com.  Truncating logs should not be a regular practice, but can be necessary for maintenance when logs have grown too large.
+
+While this is an open source project on the kCura GitHub account, support is only available through through the Relativity developer community. You are welcome to use the code and solution as you see fit within the confines of the license it is released under. However, if you are looking for support or modifications to the solution, we suggest reaching out to a [Relativity Development Partner](https://www.kcura.com/relativity/ediscovery-resources/ecosystem).
